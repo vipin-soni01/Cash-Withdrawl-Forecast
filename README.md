@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybercrime Cash-Withdrawal Location Forecast
 
 An advanced supervised-learning academic project using a **synthetic** zone-day dataset.
@@ -27,3 +28,6 @@ activity and historical rolling statistics. Targets are:
 
 The model must not use target columns or future information as predictors. Later phases
 will use chronological evaluation and fit preprocessing only on training data.
+=======
+# Cash-Withdrawl-Forecasr
+>>>>>>> origin/main
