@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+statsmodels
+streamlit
+plotly
+folium
+streamlit-folium
+shap
+lime
+imbalanced-learn
+joblib
