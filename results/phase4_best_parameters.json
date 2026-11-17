@@ -1,12 +1,12 @@
 {
     "Logistic Regression": {
-        "classifier__C": 0.1,
-        "classifier__class_weight": "balanced"
+        "classifier__C": 1,
+        "classifier__class_weight": null
     },
     "SVM": {
         "classifier__C": 1,
         "classifier__class_weight": "balanced",
-        "classifier__gamma": "scale",
+        "classifier__gamma": 0.01,
         "classifier__kernel": "rbf"
     },
     "Random Forest": {

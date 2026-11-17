@@ -1,16 +1,23 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-ipykernel
-statsmodels
-streamlit
-plotly
-folium
-streamlit-folium
-shap
-lime
-imbalanced-learn
-joblib
+# Core Data Processing & Machine Learning
+pandas>=2.2.0
+numpy>=2.0.0
+scikit-learn>=1.6.0
+joblib>=1.4.0
+imbalanced-learn>=0.12.0
+statsmodels>=0.14.0
+
+# Interactive Streamlit Dashboard & Geospatial Visualization
+streamlit>=1.40.0
+plotly>=6.0.0
+folium>=0.17.0
+streamlit-folium>=0.22.0
+
+# Explainable AI (SHAP & LIME) & Plotting
+shap>=0.46.0
+lime>=0.2.0.1
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Jupyter Notebooks & Interactive Experimentation
+jupyter>=1.0.0
+ipykernel>=6.29.0

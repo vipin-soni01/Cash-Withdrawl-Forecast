@@ -1,8 +1,16 @@
 
 # Virtual environments
 .venv/
+.venv-1/
 venv/
 env/
+
+# Office temporary lock files & presentations
+~$*.pptx
+~$*.docx
+~$*.xlsx
+*.pptx
+presentation_deliverables/
 
 # Python cache
 __pycache__/
